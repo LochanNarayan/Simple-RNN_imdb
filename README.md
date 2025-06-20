@@ -1,1 +1,1 @@
-# Simple-RNN_imdb
+# Simple-RNN_Imdb
